@@ -29,7 +29,6 @@ class HomePage extends StatelessWidget {
             children: [
               Image.asset(
                 'assets/homepagebg.png',
-                // width: double.infinity,
               ),
               const SizedBox(
                 height: 17,

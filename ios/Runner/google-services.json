@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856921230878",
+    "project_id": "makeup-store-8f73e",
+    "storage_bucket": "makeup-store-8f73e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856921230878:android:05b566ee1e156b997d280f",
+        "android_client_info": {
+          "package_name": "com.example.simple_flutter_website"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsDVNkyU0rFyylrcPtWr7dUyvmEPRLqgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
